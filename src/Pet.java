@@ -2,15 +2,11 @@
  * O encapsulamento permite que os detalhes de implementação de um objeto sejam alterados sem afetar o restante do sistema, 
 tornando o código mais flexível e fácil de manter. Com isso, 
 os objetos podem ser reutilizados em diferentes partes do sistema sem que haja preocupação com os detalhes de implementação.28/03/2023
-
-Os encapsulados são produtos que geralmente se apresentam em forma de cápsula e contêm substâncias nutricionais, 
-suplementos alimentares, ervas ou outros ingredientes. 
-Esses produtos são amplamente utilizados por pessoas que buscam melhorar a saúde, 
-perder peso, ganhar massa muscular ou tratar condições específicas.08/12/2023
  */
 
 /**
  * Classe para demonstrar a utilização do Princípio do Encapsulamento
+
  * @author Expression Samuel is undefined on line 12, column 14 in Templates/Classes/Class.java.
  */
 
